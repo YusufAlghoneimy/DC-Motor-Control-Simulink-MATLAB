@@ -1,6 +1,11 @@
 # DC Motor Speed Control using PID Controller
+<img width="713" height="371" alt="image" src="https://github.com/user-attachments/assets/fe535e2f-1415-40de-adcc-6c70f1ae9890" />
+<img width="884" height="822" alt="image" src="https://github.com/user-attachments/assets/e28abfb3-15d0-40b2-a1da-1bc2052cd5de" />
+<img width="888" height="804" alt="image" src="https://github.com/user-attachments/assets/dec79c80-54ad-4ff1-bc2c-b304c4fd273a" />
 
-A Control Systems Lab project from German International University that models a DC motor and designs a PID controller to regulate its speed.
+
+
+This is a simple Control Systems Lab project that was done in a single day. This project includes modelling a DC motor and designs a PID controller to regulate its speed. [Refer to the PDF attached for detailed explanation]
 
 ## Overview
 
