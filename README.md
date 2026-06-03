@@ -8,7 +8,7 @@
 
 ## Overview
 
-This is a simple Control Systems Lab project that was done in a single day. This project includes modelling a DC motor and designs a PID controller to regulate its speed. [Refer to the PDF attached for detailed explanation]
+This is a simple Control Systems Lab project that was done in a single day. This project includes modelling a DC motor and designing a PID controller to regulate its speed. [Refer to the PDF attached for detailed explanation]
 
 
 The DC motor is mathematically modeled from its electrical and mechanical equations, yielding the open-loop transfer function:
